@@ -5487,7 +5487,7 @@ if (UI.dark_mode) {
 }
 if (UI.dark_mode) {
   document.write(
-    '<link rel="stylesheet" href="//raw.githubusercontent.com/WIKIANOW/GDIndexV2/main/css/mdui_v2_dark.min.css">'
+    '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/WIKIANOW/GDIndexV2@04f0888/css/mdui_v2_dark.min.css">'
   );
 } else {
   document.write(
